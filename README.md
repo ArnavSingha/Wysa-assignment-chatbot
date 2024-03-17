@@ -4,13 +4,9 @@ A mockup application of Wysa's chat page with customizable profile themes. This 
 
 ## Live App
 
-Open the [live app](https://wysa-mini-project-devansh.vercel.app/)
+Open the [live app](https://wysa-chatbot.netlify.app/)
 
 ## Demo
-
-The login and logout
-![Login | Logout](demo/demo_login.gif)
-
 The chat interaction
 ![Chats](demo/demo.gif)
 
